@@ -6,6 +6,10 @@ Uses a Morse potential formalism to calculate
 the Franck-Condon factors for the X-->B 
 vibronic transition for iodine. 
 Experimental data taken from NIST.
+
+Requires Robert Johansson's "wavefunction"
+library, found here:
+https://github.com/jrjohansson/wavefunction
 """
 
 __author__ = "Nathan Seifert"
