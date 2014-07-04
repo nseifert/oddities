@@ -6,6 +6,8 @@ This is a simple script written in Python 2.7x that, given an input Fourier tran
 a given intensity threshold and return the N closest Splatalogue results
 for each peakpicked frequency. 
 
+There is additional information under __main__ on usage instructions.
+
 Library prerequisties:
 * Numpy 
 * Requests
